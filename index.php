@@ -136,7 +136,8 @@ function write($dataFile, $newData, $mode)
     <?php } ?>
  </table>
  <br>
-
+   
+    <!-- タイピングせずにタスクの入力、削除したい -->
  <form  action="" method="POST">
     <div>
          <label for="time" name="name">時間</label>
